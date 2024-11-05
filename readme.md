@@ -53,7 +53,7 @@ Seleccionar y ordenar las recomendaciones más relevantes.
 El modelo se evalúa utilizando el Root Mean Squared Error (RMSE) comparando las recomendaciones con los valores de transacción reales. La función evaluate_model divide el conjunto de datos y calcula el RMSE en el conjunto de prueba.
 
 Ejecución del Proyecto
-Asegúrate de cargar los datos de transacciones en ../transaction-data/sample_dataset.csv.
+Carga los datos de transacciones en ../transaction-data/sample_dataset.csv.
 Ejecuta el script para procesar, analizar y visualizar los datos.
 Utiliza get_recommendations para obtener recomendaciones y evaluate_model para evaluar el desempeño del sistema.
 ```
